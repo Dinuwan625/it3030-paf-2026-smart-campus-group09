@@ -237,4 +237,5 @@ function AddFacilityAssetEntry() {
 }
 //add FacilityAssetEntry
 //add Facility
+//add Facility A
 export default AddFacilityAssetEntry;
