@@ -108,5 +108,5 @@ function MyBookings() {
     </>
   );
 }
-// bookings changing 
+// bookings changing in to home 
 export default MyBookings;
