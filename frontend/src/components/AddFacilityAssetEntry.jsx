@@ -240,4 +240,5 @@ function AddFacilityAssetEntry() {
 //add Facility A
 //a Facility
 //add FA
+//a facility asset
 export default AddFacilityAssetEntry;
