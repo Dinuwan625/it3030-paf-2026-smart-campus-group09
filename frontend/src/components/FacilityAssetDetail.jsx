@@ -236,5 +236,6 @@ function FacilityAssetDetail() {
 //Faciity Asset
 //Faciity A Detail
 //Deatils of Asset facility 
+// facility AD
 
 export default FacilityAssetDetail;
