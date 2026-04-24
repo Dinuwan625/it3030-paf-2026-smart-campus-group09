@@ -15,7 +15,7 @@ function Home() {
           </div>
           <h1 className="display-5 fw-bold mb-3">Facility &amp; Asset Management</h1>
           <p className="lead mb-4" style={{opacity:0.8, maxWidth:'560px', margin:'0 auto 1.5rem'}}>
-            Centrally manage campus facilities, track asset availability, and streamline resource operations.
+            Centrally manage campus facilities, Track Asset availability, and streamline resource operations.
           </p>
           <div className="d-flex justify-content-center gap-3 flex-wrap">
             <Link to="/facility-assets" className="btn btn-light btn-lg fw-semibold px-4">
