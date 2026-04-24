@@ -226,4 +226,5 @@ function FacilityAssetDetail() {
 // FacilityAssetDetail
 //Faciity A
 //F Asset
+//F Detail
 export default FacilityAssetDetail;
