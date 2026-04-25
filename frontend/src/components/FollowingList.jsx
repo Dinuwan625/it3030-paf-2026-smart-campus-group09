@@ -151,5 +151,5 @@ function FollowingList() {
     </>
   );
 }
-//Create FollowingList 
+//modified FollowingList 
 export default FollowingList;
