@@ -18,6 +18,8 @@ function Notifications() {
       navigate('/login');
       return;
     }
+    //Notifications
+  
 
     fetchNotifications();
   }, [navigate]);
