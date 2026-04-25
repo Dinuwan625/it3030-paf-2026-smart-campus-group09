@@ -168,7 +168,6 @@ function FacilityAssetDetail() {
                 </div>
                 {renderAvailabilityStatus(parsedOperationalStatus)}
               </div>
-
               <div className="card-body p-4">
                 <h6 className="fw-bold text-uppercase text-muted mb-3" style={{fontSize:'0.72rem', letterSpacing:'0.06em'}}>
                   <i className="bi bi-info-circle me-1"></i>Asset Details

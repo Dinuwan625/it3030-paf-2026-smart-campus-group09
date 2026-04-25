@@ -19,7 +19,7 @@ function FacilityAssetList() {
     if (Array.isArray(data)) {
       return data;
     }
-
+//normalizeFacilityAssets
     if (data && typeof data === 'object') {
       if (Array.isArray(data.facilityAssets)) {
         return data.facilityAssets;
