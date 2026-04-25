@@ -322,5 +322,5 @@ function EditFacilityAssetEntry() {
     </>
   );
 }
-//Update Facility Asset
+//Update Facility Asset details
 export default EditFacilityAssetEntry;
