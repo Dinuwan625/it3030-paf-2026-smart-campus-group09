@@ -52,7 +52,7 @@ function FacilityAssetList() {
         navigate('/login');
         return;
       }
-
+//fetchCurrentUser
       const sessionUser = {
         userId: userInfoResponse.data.userId,
         username: userInfoResponse.data.username || userInfoResponse.data.name || 'User'
