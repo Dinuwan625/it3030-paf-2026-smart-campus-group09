@@ -11,6 +11,7 @@ function FacilityAssetDetail() {
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
+  //FacilityAssetDetail
   
   useEffect(() => {
     // Check if user is logged in
