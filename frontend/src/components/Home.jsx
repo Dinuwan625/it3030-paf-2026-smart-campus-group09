@@ -66,5 +66,5 @@ function Home() {
     </>
   );
 }
-// custermized dashboard 
+// coustermized dashboard 
 export default Home;
