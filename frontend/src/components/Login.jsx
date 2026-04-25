@@ -16,7 +16,7 @@ function Login() {
     console.log('Submitting form login to:', form.action);
     form.submit();
   };
-
+//function Login
   return (
     <div className="sc-auth-wrapper">
       <div className="sc-auth-shell">
