@@ -275,5 +275,5 @@ function BookingRequestForm() {
     </>
   );
 }
-//export library BookingRequestForm
+//create a BookingRequestForm
 export default BookingRequestForm;
