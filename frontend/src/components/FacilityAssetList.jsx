@@ -134,7 +134,7 @@ function FacilityAssetList() {
     if (!value) {
       return 'Not specified';
     }
-
+//formatAvailabilityValue
     const parsed = new Date(value);
     if (Number.isNaN(parsed.getTime())) {
       return value;
