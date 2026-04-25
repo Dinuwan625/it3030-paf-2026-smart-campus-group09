@@ -133,7 +133,7 @@ function FacilityAssetDetail() {
       </>
     );
   }
-
+//
   const user = JSON.parse(localStorage.getItem('user'));
   const isOwner = user.userId === facilityAsset.userId;
   const parsedType = parseDescriptionField(facilityAsset.description, 'Type');
