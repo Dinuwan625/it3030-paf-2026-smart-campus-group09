@@ -171,7 +171,7 @@ function FacilityAssetList() {
     const match = combinedText.match(fieldPattern);
     return match ? match[1].trim() : '';
   };
-
+//getTaggedFieldValue
   const filteredFacilityAssets = facilityAssets.filter((asset) => {
     const filterText = getFilterableText(asset);
     const searchMatch = searchTerm
