@@ -108,5 +108,5 @@ function MyBookings() {
     </>
   );
 }
-// you can book a resources within this page. So there are three types (Avalible,booked,under maintaince) 
+// you can book a resources within this page. So there are three types (Avalible,booked,under maintaince)types 
 export default MyBookings;
