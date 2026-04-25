@@ -237,5 +237,5 @@ function Register() {
     </div>
   );
 }
-// add the button -google-
+// add a secret code area
 export default Register;
