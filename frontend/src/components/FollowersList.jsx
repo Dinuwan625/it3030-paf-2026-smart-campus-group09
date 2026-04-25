@@ -74,7 +74,7 @@ function FollowersList() {
           followerUsername: currentUser.username,
           followingId: followingId,
           followingUsername: followers.find(f => f.followerId === followingId)?.followerUsername || "User"
-        });
+        });//handleFollow
       }
       
       // Refresh followers list
