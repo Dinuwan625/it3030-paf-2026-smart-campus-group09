@@ -136,5 +136,5 @@ function Login() {
     </div>
   );
 }
-// authentication  change to admin
+// authentication changed to admin portal
 export default Login;
