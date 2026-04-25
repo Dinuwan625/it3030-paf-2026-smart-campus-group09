@@ -20,6 +20,7 @@ function EditFacilityAssetEntry() {
   const availabilityHelperText = operationalStatus === 'AVAILABLE'
     ? 'Set the date and time until this asset can be used.'
     : 'Set when this asset is expected to become available again.';
+    //operationalStatus
 
   const getCurrentDateTimeLocal = () => {
     const now = new Date();
