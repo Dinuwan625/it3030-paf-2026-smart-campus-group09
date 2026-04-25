@@ -291,5 +291,5 @@ function AdminBookings() {
     </>
   );
 }
-// change admin roles 
+// change booking types for admin
 export default AdminBookings;
