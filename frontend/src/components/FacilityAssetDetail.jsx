@@ -223,5 +223,5 @@ function FacilityAssetDetail() {
     </>
   );
 }
-// Add FacilityAssetDetail  
+// Add FacilityAssetDetail to the system
 export default FacilityAssetDetail;
