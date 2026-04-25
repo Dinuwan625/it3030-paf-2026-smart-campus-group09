@@ -42,7 +42,7 @@ function FollowersList() {
       // In a real application, you would have an endpoint to get user details by ID
       // For now, we'll check if it's the current user
       const currentUser = JSON.parse(localStorage.getItem('user'));
-      
+    // fetchUsername
       if (currentUser.userId === userId) {
         setUsername(currentUser.username);
       } else {
