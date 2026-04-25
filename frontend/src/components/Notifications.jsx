@@ -211,5 +211,5 @@ function Notifications() {
     </>
   );
 }
-//  notifications in to home mode
+// 
 export default Notifications;
