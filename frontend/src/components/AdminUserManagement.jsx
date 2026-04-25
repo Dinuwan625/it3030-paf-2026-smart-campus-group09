@@ -238,5 +238,5 @@ function AdminUserManagement() {
     </>
   );
 }
-//user roles change for customize login page
+// change user roles for customize admin login
 export default AdminUserManagement;
