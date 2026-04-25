@@ -146,6 +146,7 @@ function FacilityAssetList() {
   const getAvailabilityLabel = (status) => {
     return status === 'AVAILABLE' ? 'Available Until' : 'Expected Availability';
   };
+  //getAvailabilityLabel
 
   const renderFacilityAssetStatus = (operationalStatus) => {
     switch (operationalStatus) {
