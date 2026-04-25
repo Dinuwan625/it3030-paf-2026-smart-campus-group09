@@ -164,7 +164,7 @@ function Notifications() {
                 {notifications.length === 0 ? (
                   <div className="text-center py-5">
                     <i className="bi bi-bell-slash" style={{fontSize:'3rem', color:'#94a3b8'}}></i>
-                    <p className="text-muted mt-3 mb-0">You have no notifications.</p>
+                    <p className="text-muted mt-3 mb-0">You have No notifications.</p>
                   </div>
                 ) : (
                   <div className="d-flex flex-column gap-2">
@@ -211,5 +211,5 @@ function Notifications() {
     </>
   );
 }
-// 
+// change notification label
 export default Notifications;
