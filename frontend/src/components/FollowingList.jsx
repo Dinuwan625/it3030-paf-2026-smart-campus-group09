@@ -12,7 +12,7 @@ function FollowingList() {
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(true);
   const navigate = useNavigate();
-  
+  //FollowingList
   useEffect(() => {
     // Check if user is logged in
     const currentUser = JSON.parse(localStorage.getItem('user'));
