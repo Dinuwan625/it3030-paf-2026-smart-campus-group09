@@ -235,5 +235,5 @@ function AddFacilityAssetEntry() {
     </>
   );
 }
-//create AddFacilityAssetEntry
+//create AddFacilityAsset
 export default AddFacilityAssetEntry;

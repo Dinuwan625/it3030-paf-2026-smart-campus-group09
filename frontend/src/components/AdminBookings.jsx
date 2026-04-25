@@ -291,5 +291,5 @@ function AdminBookings() {
     </>
   );
 }
-//create AdminBookings
+//
 export default AdminBookings;
