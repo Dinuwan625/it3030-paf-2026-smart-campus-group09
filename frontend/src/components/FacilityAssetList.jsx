@@ -209,7 +209,7 @@ function FacilityAssetList() {
         <div className="d-flex flex-wrap align-items-center justify-content-between mb-4 gap-3">
           <div>
             <h1 className="sc-page-title mb-0">
-              <i className="bi bi-house-door me-2 text-primary"></i>Home
+              <i className="bi bi-house-door me-2 text-primary"></i>Dashboard
             </h1>
             <p className="text-muted mb-0" style={{fontSize:'0.9rem'}}>Browse and manage campus resources</p>
           </div>

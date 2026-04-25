@@ -174,7 +174,7 @@ function FacilityAssetDetail() {
                 </h6>
                 <div className="sc-detail-grid mb-4">
                   <div className="sc-detail-item">
-                    <span className="sc-detail-label">Type</span>
+                    <span className="sc-detail-label">Asset Type</span>
                     <span className="sc-detail-value">{parsedType}</span>
                   </div>
                   <div className="sc-detail-item">
