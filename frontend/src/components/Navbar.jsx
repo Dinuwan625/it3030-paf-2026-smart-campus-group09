@@ -211,5 +211,5 @@ function Navbar() {
     </nav>
   );
 }
-// modified Navbar with all tabs
+// modified Navbar 
 export default Navbar;
