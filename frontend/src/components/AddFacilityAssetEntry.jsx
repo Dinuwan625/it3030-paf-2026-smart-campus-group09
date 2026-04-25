@@ -235,5 +235,5 @@ function AddFacilityAssetEntry() {
     </>
   );
 }
-//setLocation
+//setResourceType
 export default AddFacilityAssetEntry;
