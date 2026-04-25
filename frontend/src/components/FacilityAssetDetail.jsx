@@ -223,5 +223,5 @@ function FacilityAssetDetail() {
     </>
   );
 }
-// 
+// create a view for acilityAssetDetail
 export default FacilityAssetDetail;
