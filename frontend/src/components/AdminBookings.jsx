@@ -291,5 +291,5 @@ function AdminBookings() {
     </>
   );
 }
-//
+//statusBadge
 export default AdminBookings;
