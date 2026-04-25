@@ -162,5 +162,5 @@ function FollowersList() {
     </>
   );
 }
-// Change user is logged in to the system
+// Change FollowersList in to the system
 export default FollowersList;
