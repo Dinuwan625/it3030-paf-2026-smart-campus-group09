@@ -237,5 +237,5 @@ function Register() {
     </div>
   );
 }
-// add a secret code area
+// register user to the system
 export default Register;
