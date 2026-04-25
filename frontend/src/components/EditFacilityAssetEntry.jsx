@@ -95,7 +95,7 @@ function EditFacilityAssetEntry() {
 
     return null;
   };
-
+//ormalizeFacilityAsset
   const fetchFacilityAsset = async () => {
     try {
       const response = await axios.get(`${API_URL}/${assetId}`, { withCredentials: true });
