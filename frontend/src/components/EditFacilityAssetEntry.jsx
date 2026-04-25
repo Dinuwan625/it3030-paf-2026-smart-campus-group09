@@ -115,7 +115,7 @@ function EditFacilityAssetEntry() {
         parseField(facilityAsset.description, 'Availability Update')
         || parseField(facilityAsset.description, 'Availability Windows')
       ));
-
+//setResourceName
       const parsedStatus = (parseField(facilityAsset.description, 'Status') || '').toUpperCase();
       if (parsedStatus === 'BOOKED') {
         setOperationalStatus('BOOKED');
