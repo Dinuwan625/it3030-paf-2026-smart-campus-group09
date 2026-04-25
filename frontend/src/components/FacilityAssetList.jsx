@@ -118,6 +118,7 @@ function FacilityAssetList() {
     const match = (description || '').match(/Status\s*:\s*([^;\n]+)/i);
     return match ? match[1].trim().toUpperCase() : '';
   };
+  //parseOperationalStatus
 
   const parseDescriptionField = (description, fieldName) => {
     const match = (description || '').match(new RegExp(`${fieldName}\s*:\s*([^;\n]+)`, 'i'));
