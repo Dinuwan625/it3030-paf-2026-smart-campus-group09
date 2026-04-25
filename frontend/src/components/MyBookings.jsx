@@ -10,7 +10,7 @@ function MyBookings() {
   const [bookings, setBookings] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
-
+//function MyBookings
   useEffect(() => {
     const user = JSON.parse(localStorage.getItem('user'));
     if (!user) { navigate('/login'); return; }
