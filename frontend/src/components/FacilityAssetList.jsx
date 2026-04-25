@@ -91,6 +91,7 @@ function FacilityAssetList() {
   const handleViewFacilityAsset = (assetId) => {
     navigate(`/facility-asset/${assetId}`);
   };
+  //handleViewFacilityAsset
 
   const handleEditFacilityAsset = (assetId) => {
     navigate(`/edit-facility-asset/${assetId}`);
