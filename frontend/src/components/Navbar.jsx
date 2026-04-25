@@ -12,7 +12,7 @@ function Navbar() {
   const normalizedRole = (user?.role || '').toString().trim().toUpperCase();
   const canAddEntry = normalizedRole === 'ADMIN' || normalizedRole === 'ROLE_ADMIN';
   const isAdminOrTech = normalizedRole === 'ADMIN' || normalizedRole === 'ROLE_ADMIN' || normalizedRole === 'TECHNICIAN' || normalizedRole === 'ROLE_TECHNICIAN';
-
+//function Navbar
   const getDisplayName = (sessionData) => {
     const username = sessionData?.username;
     const name = sessionData?.name;
