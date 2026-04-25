@@ -202,6 +202,7 @@ function FacilityAssetList() {
   const underMaintenance = facilityAssets.filter(
     (asset) => parseOperationalStatus(asset.description) === 'MAINTENANCE'
   ).length;
+  //parseOperationalStatus
 
   return (
     <>
