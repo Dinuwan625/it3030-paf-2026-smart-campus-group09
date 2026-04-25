@@ -32,6 +32,7 @@ function MyBookings() {
       default:         return <span className="sc-badge-unknown">{status}</span>;
     }
   };
+  //statusBadge
 
   return (
     <>
