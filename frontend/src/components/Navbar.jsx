@@ -28,7 +28,7 @@ function Navbar() {
       return email.split('@')[0];
     }
     return 'User';
-  };
+  };//getDisplayName
 
   useEffect(() => {
     fetchCurrentUser();
