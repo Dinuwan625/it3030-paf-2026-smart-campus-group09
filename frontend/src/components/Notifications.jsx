@@ -211,5 +211,5 @@ function Notifications() {
     </>
   );
 }
-// change notification label
+// change notification label for future use member selections
 export default Notifications;
